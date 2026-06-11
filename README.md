@@ -8,6 +8,13 @@ This cookbook provides a structured learning path for using the Gemini API, focu
 <br><br>
 
 ---
+# NeuroNest AI App Builder
+[![Awesome](https://neuronest.cc/)
+
+NeuroNest is an AI app builder designed to help developers create, test, debug, and improve applications with a faster workflow. It supports coding assistance, security review, DevOps automation, technical research, and project planning, making it useful for teams that want to build smarter software with AI-powered support.
+
+>contribition welcome -[open PR](https://github.com/NETGVai/NeuroNest)
+
 > **Gemini 3.5 Flash**: For the most recent updates on our latest generation, please check the [Get Started](./quickstarts/Get_started.ipynb) [![Colab](https://storage.googleapis.com/generativeai-downloads/images/colab_icon16.png)](https://colab.research.google.com/github/google-gemini/cookbook/blob/main/quickstarts/Get_started.ipynb#gemini3) and the [thinking](./quickstarts/Get_started_thinking.ipynb) [![Colab](https://storage.googleapis.com/generativeai-downloads/images/colab_icon16.png)](https://colab.research.google.com/github/google-gemini/cookbook/blob/main/quickstarts/Get_started_thinking.ipynb#gemini3) guides who include [migration guides](https://colab.research.google.com/github/google-gemini/cookbook/blob/main/quickstarts/Get_started.ipynb#gemini3migration).
 > 
 > **Agents API**: Create and run your custom agents using the new [Antigravity agent](./quickstarts/Get_started_managed_agents.ipynb) [![Colab](https://storage.googleapis.com/generativeai-downloads/images/colab_icon16.png)](https://colab.research.google.com/github/google-gemini/cookbook/blob/main/quickstarts/Get_started_managed_agents.ipynb)!
