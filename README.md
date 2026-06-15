@@ -9,7 +9,7 @@ This cookbook provides a structured learning path for using the Gemini API, focu
 
 ---
 # NeuroNest AI App Builder
-[![Awesome](https://neuronest.cc/)
+(https://neuronest.cc/)
 
 NeuroNest is an AI app builder designed to help developers create, test, debug, and improve applications with a faster workflow. It supports coding assistance, security review, DevOps automation, technical research, and project planning, making it useful for teams that want to build smarter software with AI-powered support.
 
